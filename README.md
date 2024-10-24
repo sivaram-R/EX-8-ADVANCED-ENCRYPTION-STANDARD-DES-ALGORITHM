@@ -44,9 +44,7 @@ return 0;
 
 
 ## OUTPUT:
-
-![image](https://github.com/user-attachments/assets/2f883ed1-b494-4d40-b268-fc147c052dd4)
-
+![image](https://github.com/user-attachments/assets/ca1809a5-6a2f-4689-86b0-62f419213b8e)
 
 ## RESULT: 
 
